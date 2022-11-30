@@ -13,9 +13,7 @@ function App() {
   return (
     <div>
       <h1 className={styles.title}>Welcome back!!!!!</h1>
-      <h1>{counter}</h1>
-      <button onClick={onClick}>click me</button>
-      <Button text={"버튼"}/>
+      
     </div>
   );
 }
