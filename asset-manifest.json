@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-git-test/static/js/main.d440b872.js",
+    "main.js": "/react-git-test/static/js/main.e531889e.js",
     "index.html": "/react-git-test/index.html",
-    "main.d440b872.js.map": "/react-git-test/static/js/main.d440b872.js.map"
+    "main.e531889e.js.map": "/react-git-test/static/js/main.e531889e.js.map"
   },
   "entrypoints": [
-    "static/js/main.d440b872.js"
+    "static/js/main.e531889e.js"
   ]
 }
