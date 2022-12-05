@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-git-test/static/js/main.adbe80a3.js",
+    "main.css": "/react-git-test/static/css/main.6da44a5c.css",
+    "main.js": "/react-git-test/static/js/main.85708662.js",
     "index.html": "/react-git-test/index.html",
-    "main.adbe80a3.js.map": "/react-git-test/static/js/main.adbe80a3.js.map"
+    "main.6da44a5c.css.map": "/react-git-test/static/css/main.6da44a5c.css.map",
+    "main.85708662.js.map": "/react-git-test/static/js/main.85708662.js.map"
   },
   "entrypoints": [
-    "static/js/main.adbe80a3.js"
+    "static/css/main.6da44a5c.css",
+    "static/js/main.85708662.js"
   ]
 }
